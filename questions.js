@@ -7,7 +7,7 @@ export default [
     ],
   },
   {
-    question: "Acima esta meus pacotes e preços 🥰. Ficou interessado em algum deles?",
+    question: "Acima estão meus pacotes e valores 🥰. Ficou interessado em algum deles?",
     answers: [
       { option: "Sim", correct: true },
       { option: "Não", correct: false },
