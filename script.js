@@ -24,7 +24,7 @@ function nextQuestion(e) {
     questionsCorrect++;
   }
   else if (e.target.getAttribute("data-correct") === "false") {
-    window.close()
+    window.location.href="https://google.com.br"
   }
 
   if (currentIndex < questions.length - 1) {
