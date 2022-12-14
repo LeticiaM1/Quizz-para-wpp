@@ -41,7 +41,7 @@ function finish() {
     content.style.display = "none";
     contentFinish.style.display = "flex";
   } else {
-    window.close()
+    window.location.href="https://google.com.br"
   }
 }
 
