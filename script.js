@@ -37,7 +37,7 @@ function nextQuestion(e) {
 
 function finish() {
   if (questionsCorrect === 3) {
-    textFinish.innerHTML = " 🔥 Se você respondeu 'Sim' para todas, clique no botão abaixo para conversar comigo no WhatsApp 🔥 ";
+    textFinish.innerHTML = " 🔥 Clique no botão abaixo para conversar comigo no WhatsApp 🔥 ";
     content.style.display = "none";
     contentFinish.style.display = "flex";
   } else {
