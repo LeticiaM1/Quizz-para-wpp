@@ -36,8 +36,8 @@ function nextQuestion(e) {
 }
 
 function finish() {
-  if (questionsCorrect === 3) {
-    textFinish.innerHTML = " 🔥 Clique no botão abaixo para conversar comigo no WhatsApp 🔥 ";
+  if (questionsCorrect === 2) {
+    textFinish.innerHTML = " 🔥 Clique no botão abaixo para conversar comigo no WhatsApp e conhecer minha tabela de preços 🔥 ";
     content.style.display = "none";
     contentFinish.style.display = "flex";
   } else {
