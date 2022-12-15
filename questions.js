@@ -1,6 +1,6 @@
 export default [
   {
-    question: "Trabalho com a venda do meu conteúdo, incluindo fotos e vídeos explícito 😈." + "<br>" + "Gostaria de conhecer meus pacotes?",
+    question: "Trabalho com a venda do meu conteúdo, incluindo fotos e vídeos 😈." + "<br>" + "Gostaria de conhecer meus pacotes?",
     answers: [
       { option: "Sim", correct: true },
       { option: "Não", correct: false},
