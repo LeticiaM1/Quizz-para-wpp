@@ -1,20 +1,13 @@
 export default [
   {
-    question: "Trabalho com a venda do meu conteúdo adulto, incluindo fotos e vídeos bem explícito 😈. Teria interesse em conhecer meus pacotes?",
+    question: "Trabalho com a venda do meu conteúdo, incluindo fotos e vídeos explícito 😈." + "<br>" + "Gostaria de conhecer meus pacotes?",
     answers: [
       { option: "Sim", correct: true },
       { option: "Não", correct: false},
     ],
   },
   {
-    question: "Acima estão meus pacotes e valores 🥰. Ficou interessado em algum deles?",
-    answers: [
-      { option: "Sim", correct: true },
-      { option: "Não", correct: false },
-    ],
-  },
-  {
-    question: "Você tem pix para realizar o pagamento em caso de compra? 😊",
+    question: "Caso se interesse em comprar algum pacote, teria possibilidade de pagar no pix? 😊",
     answers: [
       { option: "Sim", correct: true },
       { option: "Não", correct: false },
