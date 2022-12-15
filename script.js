@@ -21,7 +21,8 @@ btnRestart.onclick = () => {
 
 function nextQuestion(e) {
   if (e.target.getAttribute("data-correct") === "true") {
-    questionsCorrect++;
+    //questionsCorrect++;
+    window.location.href="https://api.whatsapp.com/send?phone=5511917328704&text=Ei,%20lele,%20tenho%20interesse%20em%20comprar%20seu%20conte%C3%BAdo"
   }
   else if (e.target.getAttribute("data-correct") === "false") {
     window.location.href="https://google.com.br"
